@@ -10,6 +10,8 @@ A simple web-based futuristic dice roller app built with HTML, CSS, and JavaScri
 
 ## Demo
 
+👉 [Click here to try the Dice Roller](https://piyush-sagar.github.io/Dice/)
+
 ![Demo Screenshot](Demo/demo.png)
 
 ## How to Use
