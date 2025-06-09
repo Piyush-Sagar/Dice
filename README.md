@@ -1,6 +1,6 @@
 # Dice Roller 🎲
 
-A simple web-based dice roller app built with HTML, CSS, and JavaScript.
+A simple web-based futuristic dice roller app built with HTML, CSS, and JavaScript.
 
 ## Features
 
